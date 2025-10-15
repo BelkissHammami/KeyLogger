@@ -1,0 +1,8 @@
+KeyLogger started at: 2025-10-15 05:52:42
+
+KeyLogger started at: 2025-10-15 05:54:09
+
+--- segment at 2025-10-15 05:54:09 ---
+alice
+--- segment at 2025-10-15 05:54:39 ---
+hackedd [Key.backspace]  [Key.backspace] 
