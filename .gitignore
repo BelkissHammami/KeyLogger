@@ -11,3 +11,9 @@ env/
 # Logs and runtime files
 *.log
 keylog.txt
+# IDE files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
